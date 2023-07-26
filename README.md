@@ -1,24 +1,24 @@
 # Gilberto Tavares
 WordPress Developer
 
-Joinville, SC, Brazil | gilbertoetavares@gmail.com
+Joinville, SC, Brazil | [camaleaun@gmail.com](mailto:camaleaun@gmail.com)
 
-[WordPress: camaleaun](https://profiles.wordpress.org/camaleaun) | [GitHub: camaleaun](https://github.com/camaleaun) | +55 47 98804 3272
+[WordPress: camaleaun](https://profiles.wordpress.org/camaleaun) | [GitHub: camaleaun](https://github.com/camaleaun) | [+55 47 98804 3272](tel:+5547988043272)
 
 ## Professional Experience
 
-### WordPress Developer (part-time), Zeni (WordPress Agency)
+### WordPress Developer (remote), Zeni (WordPress Agency)
 
-Czech Republic, February 2023 - Present (3 months)
+Czech Republic, February 2023 - Present (4 months)
 
 - Continuity in some WordPress projects, especially in custom themes and child themes.
 - Catalog website with ProductX plugin (WooCommerce template builder based in Gutenberg).
 - Layouts in child themes of Generatepress theme (extra blocks and alternative to Full Site Editing).
 - Setting up production, staging, and local environments using Bedrock stack, Trellis, and Sage.
 
-### WordPress Developer (full-time), Yogh (WordPress Specialist Company), Brazil
+### WordPress Developer (remote), Yogh (WordPress Specialist Company), Brazil
 
-Brazil, January 2022 - Present (1 year and 4 months)
+Brazil, January 2022 - June 2023 (1 year and 5 months)
 
 - Producing features in custom themes and plugins for an established national WordPress client base.
 - Troubleshooting themes and plugins, fixing bugs, and adding features.
