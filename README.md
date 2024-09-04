@@ -9,9 +9,9 @@ Joinville, SC, Brazil | [camaleaun@gmail.com](mailto:camaleaun@gmail.com)
 
 ### WordPress Developer (remote), Zeni (WordPress Agency)
 
-Czech Republic, February 2023 - Present (4 months)
+Czech Republic, February 2023 - Present (1 year and 7 months)
 
-- Continuity in some WordPress projects, especially in custom themes and child themes.
+- Creation and continuity of WordPress projects, custom plugins or themes, including child themes.
 - Catalog website with ProductX plugin (WooCommerce template builder based in Gutenberg).
 - Layouts in child themes of Generatepress theme (extra blocks and alternative to Full Site Editing).
 - Setting up production, staging, and local environments using Bedrock stack, Trellis, and Sage.
@@ -49,11 +49,11 @@ My passion for web development and open source technologies drives me to stay up
 
 ## Skills
 
-- Web: WordPress, PHP, MySQL, HTML, CSS (Sass), JavaScript (vanilla JS, jQuery, ES6)
-- Tools: Composer, NPM, PHPCS, Webpack, Gulp
+- Web: WordPress, PHP, MySQL, HTML, CSS (Sass), JavaScript (vanilla, React, TypeScript, jQuery, ES6)
+- Tools: Composer, NPM, PHPCS, Webpack
 - Server: Bash, WP-CLI
-- Version Control: Git, GitHub
-- Other: Node.js, Python, Java, C++
+- Version Control: Git
+- Other: Node.js, Python, Java, C++, WordPress Gutenberg
 
 ## Education
 
