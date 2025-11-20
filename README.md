@@ -11,51 +11,45 @@ Joinville, SC, Brazil | [gilbertoetavares@gmail.com](mailto:gilbertoetavares@gma
 
 Arizona US, July 2025 - Present (4 months)
 
-- Developed full-stack WordPress solutions using modern PHP (OOP, namespacing, autoloading) for complex eCommerce clients.
-- Built custom plugins, API integrations, data sync features, and performance-sensitive server-side logic.
-- Created responsive and accessible interfaces, including Gutenberg blocks, dynamic components, Elementor widgets, Kadence layouts, and Figma-based designs.
-- Improved eCommerce workflows, checkout behavior, and user experience through tailored technical implementations.
-- Delivered optimized queries and scalable architectures for high-traffic WooCommerce stores.
-- Performed unit testing, code review, and refactoring to ensure maintainability and consistency.
-- Collaborated with designers, PMs, and developers in agency settings, contributing to process improvement and reliable delivery.
-- Troubleshot complex issues involving WordPress core, custom plugins, third-party integrations, and cloud environments.
-- Built a Shopware POC as the agency’s first project on the platform, working as the sole developer.
-- Managed deployments manually and through automated pipelines/GitHub Actions.
+- Developed full-stack WordPress/eCommerce solutions using modern PHP (OOP, namespacing, autoloading) for complex WooCommerce stores.
+- Built custom plugins, API integrations, data sync routines, and performance-oriented backend features.
+- Created responsive interfaces including Gutenberg blocks, dynamic components, and Elementor widgets.
+- Improved checkout flows, UX, and store performance using optimized queries and scalable patterns.
+- Worked directly with designers and PMs to deliver stable, scalable WordPress solutions.
+- Troubleshot advanced issues involving WordPress core, third-party APIs, and cloud environments.
+- Built first Shopware as the sole developer and contributed to CI/CD and deployment workflows.
 
 ### WordPress Developer (remote), Zeni (WordPress Agency)
 
 Czech Republic, February 2023 - July 2025 (2 years and 5 months)
 
-- Led the creation and maintenance of WordPress projects, developing custom themes, plugins, and child themes from scratch without relying on third-party builders.
-- Built catalog websites using the ProductX plugin (WooCommerce Gutenberg template builder) and created custom layouts in GeneratePress child themes with additional blocks.
-- Set up and maintained production, staging, and local environments using the Bedrock stack, Trellis, and Sage.
-- Improved performance and user experience by optimizing caching layers, database queries, asset delivery, and on-page SEO, resulting in better Core Web Vitals and PageSpeed scores.
+- Developed custom themes, plugins, and child themes without relying on builders.
+- Built catalog and WooCommerce layouts using ProductX and custom GeneratePress extensions.
+- Managed environments using Bedrock/Trellis/Sage and ensured code quality through reviews and refactoring.
 
 ### WordPress Developer (remote), Yogh (WordPress Specialist Company), Brazil
 
 Brazil, January 2022 - June 2023 (1 year and 5 months)
 
-- Developed features for custom WordPress themes and plugins from scratch for a large national client base.
-- Troubleshot themes and plugins, fixing bugs and implementing new functionalities.
-- Performed code reviews, refactoring, and training, ensuring attention to detail and adherence to coding standards across the team.
-- Delivered efficient solutions to customer requests and contributed to public plugin development initiatives.
+- Produced features for custom themes/plugins and maintained a large WordPress client base.
+- Fixed bugs, added enhancements, and improved reliability across legacy projects.
+- Conducted training, code reviews, refactoring, and helped enforce coding standards.
+- Contributed to internal plugins and public WordPress plugin initiatives.
 
 ### WordPress Developer, Envolve (Digital Marketing Agency)
 
 Brazil, April 2018 - January 2022 (3 years and 9 months)
 
-- Created custom WordPress themes and plugins from scratch for hundreds of projects based on PSD, Figma, and XD layouts.
-- Fixed issues across sites and implemented new features as needed.
-- Trained, supervised, and performed code reviews for WordPress developers, ensuring high standards and consistency.
-- Implemented Git versioning workflows and coding standards across the team.
-- Improved performance and security through reverse proxy configurations and caching strategies.
+- Created custom themes and plugins for hundreds of projects from PSD, Figma, and XD layouts.
+- Solved issues across diverse client sites and supervised junior developers.
+- Helped implement Git workflows and coding standards across projects.
 
 ### Web Developer, Xthor (Digital Marketing Agency)
 
 Brazil, February 2014 - December 2015 (1 year and 10 months)
 
-- Generated mobile-friendly WordPress themes from scratch for dozens of new websites based on PSD layouts.
-- Trained and supervised junior WordPress developers, ensuring code quality and development best practices.
+- Built mobile-friendly WordPress themes from PSD layouts.
+- Trained and supported junior WordPress developers.
 
 ## Summary
 
@@ -65,7 +59,7 @@ Passionate about web development and open-source technologies, I stay current wi
 
 ## Skills
 
-- Web: WordPress (themes, plugins, Gutenberg), PHP, MySQL, HTML, CSS (Sass), JavaScript (vanilla, ES6, TypeScript, React, Vue.js, jQuery), WooCommerce, Advanced Custom Fields (ACF), Twig, Blade, Sage, Bedrock
+- Web: WordPress (themes, plugins, Gutenberg), PHP, MySQL, HTML, CSS (Sass), JavaScript (vanilla, ES6, TypeScript, React, Vue.js, jQuery), WooCommerce, Twig, Blade, Sage, Bedrock
 - Tools: Composer, NPM, PHPCS (WPCS), Webpack
 - Server: Bash, WP-CLI
 - Version Control: Git
